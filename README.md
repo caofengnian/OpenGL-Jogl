@@ -1,4 +1,4 @@
 # OpenGL-Jogl
-A example of creating a cylinder in Jogl and
+A program of creating a cylinder in Jogl with
 Object Transformation,
-Illumination Models, Polygon Shading, Texture Mapping
+Illumination Models, Polygon Shading and Texture Mapping
